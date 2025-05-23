@@ -20,7 +20,7 @@ A simple and interactive number guessing game written in Python, where the user 
 ##  Files
 
 - `game_me.py` – The main Python file that contains the game logic.
-- `game.txt` – (Optional) A text file to describe the game.
+- `game.txt` –  A text file to describe the game.
 
 ---
 
