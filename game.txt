@@ -1,0 +1,39 @@
+ Number Guessing Game – Requirements
+✅ Core Features
+Random Number Generation
+
+The computer randomly selects a number between 1 and 100.
+
+User Input
+
+The user tries to guess the number.
+
+Feedback
+
+The game tells the user:
+
+“Too high” if the guess is greater than the number.
+
+“Too low” if the guess is less than the number.
+
+“Correct!” when the guess is right.
+
+Guess Counter
+
+Count and display how many attempts the user took to get the correct number.
+
+Game End
+
+The game ends when the user guesses correctly.
+
+🧪 Optional Extras (If You Want a Challenge)
+🎮 Play Again Option after winning.
+
+🧠 Limit number of guesses (e.g., max 10 tries).
+
+📜 Store previous guesses and display them.
+
+🧼 Handle invalid input (e.g., letters, out-of-range numbers).
+
+🎨 Color-coded feedback using libraries like colorama.
+
